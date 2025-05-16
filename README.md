@@ -19,4 +19,3 @@ A PyTorch-based lip language decoding framework using wearable sensors and trans
 - LSTM-based lip decoding  
 - Transfer learning from source to new users  
 - Efficient adaptation across users  
-- Compatible with triboelectric lip sensors  
